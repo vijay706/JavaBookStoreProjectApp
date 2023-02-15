@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author vdomada
+ *
+ */
+module Bookstoreapp {
+}
